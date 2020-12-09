@@ -1,4 +1,16 @@
-window._ = require('lodash');
+// Import simplebar
+import 'simplebar'
+
+// Import UIKit and icons
+import UIkit from 'uikit'
+import Icons from 'uikit/dist/js/uikit-icons'
+
+UIkit.use(Icons)
+window.UIKit = UIkit
+
+// Import and initialize the package's JS
+import LaravelUikit from '../../vendor/sowrensen/laravel-uikit/resources/js/laravel-uikit'
+const laravelUikit = new LaravelUikit()
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests

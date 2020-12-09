@@ -1,0 +1,10 @@
+// UIKit stylesheets
+@import "~uikit/src/scss/variables-theme.scss";
+@import "~uikit/src/scss/mixins-theme.scss";
+@import "~uikit/src/scss/uikit-theme.scss";
+
+// Simplebar stylesheet
+@import "~simplebar/dist/simplebar.min.css";
+
+// Package stylesheet
+@import "../../vendor/sowrensen/laravel-uikit/resources/sass/laravel-uikit";
