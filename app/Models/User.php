@@ -40,4 +40,14 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    /**
+     * Get user avatar.
+     *
+     * @return mixed|string
+     */
+    public function getAvatar()
+    {
+        return auth()->user()->avatar ?? '';
+    }
 }

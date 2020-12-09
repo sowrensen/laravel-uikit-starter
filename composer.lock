@@ -2634,16 +2634,16 @@
         },
         {
             "name": "sowrensen/laravel-uikit",
-            "version": "v1.0.0-rc",
+            "version": "v1.0.0-rc2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sowrensen/laravel-uikit.git",
-                "reference": "183305ddfd93302a138a0a28433703bcd15f19c8"
+                "reference": "35f36c06948487eb650448fa32d88f598ff264bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sowrensen/laravel-uikit/zipball/183305ddfd93302a138a0a28433703bcd15f19c8",
-                "reference": "183305ddfd93302a138a0a28433703bcd15f19c8",
+                "url": "https://api.github.com/repos/sowrensen/laravel-uikit/zipball/35f36c06948487eb650448fa32d88f598ff264bb",
+                "reference": "35f36c06948487eb650448fa32d88f598ff264bb",
                 "shasum": ""
             },
             "require": {
@@ -2685,9 +2685,9 @@
             ],
             "support": {
                 "issues": "https://github.com/sowrensen/laravel-uikit/issues",
-                "source": "https://github.com/sowrensen/laravel-uikit/tree/v1.0.0-rc"
+                "source": "https://github.com/sowrensen/laravel-uikit/tree/v1.0.0-rc2"
             },
-            "time": "2020-12-09T09:55:35+00:00"
+            "time": "2020-12-09T11:10:07+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
