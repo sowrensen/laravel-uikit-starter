@@ -1,1 +1,7 @@
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
+ */
+
 /*! UIkit 3.5.13 | https://www.getuikit.com | (c) 2014 - 2020 YOOtheme | MIT License */
